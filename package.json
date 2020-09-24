@@ -1,6 +1,6 @@
 {
   "name": "uno-clicko",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A one-click generator for reCaptcha.",
   "main": "index.js",
   "scripts": {
